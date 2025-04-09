@@ -1,0 +1,2 @@
+/Users/hashiifabdillah/Documents/IT/my_project/apps/Presensi-App/android/app/.cxx/Debug/1591o5h6/x86_64/CMakeFiles/edit_cache.dir
+/Users/hashiifabdillah/Documents/IT/my_project/apps/Presensi-App/android/app/.cxx/Debug/1591o5h6/x86_64/CMakeFiles/rebuild_cache.dir
